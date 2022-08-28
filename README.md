@@ -2,7 +2,8 @@
 - 👀 I’m interested in reading, computers, video games, and yoga.
 - 🌱 I’m currently learning website development, python, database management, and application development.
 - 💞️ I would like to collaborate on a project in the future, but I'm currently working on my projects.
-- 📫 You can reach me through linkedin.
+- 📫 You can reach me through linkedin: www.linkedin.com/in/sydelledge
+
 
 <!---
 sydelled/sydelled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
